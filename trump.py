@@ -3,7 +3,7 @@ def check_even_odd(number):
         return True
     else:
         return False
-    
+print("hello")
     
 check_number=check_even_odd(5)
 print(check_number)
